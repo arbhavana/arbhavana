@@ -31,7 +31,7 @@ I am a final-year **Bachelor of Technology** student in **Electrical and Electro
 
 ## 📬 Contact Me
 - Email: [arbhavana532@gmail.com](mailto:arbhavana532@dgmail.com)
-- LinkedIn: [linkedin.com/in/arbhavana]([https://www.linkedin.com/in/arbhavana](https://www.linkedin.com/in/bhavana-ar-356149266/))
+- LinkedIn: [linkedin.com/in/arbhavana](https://www.linkedin.com/in/bhavana-ar-356149266/)
 - GitHub: [github.com/arbhavana](https://github.com/arbhavana)
 
 Feel free to explore my repositories, and if you have any questions or collaborations in mind, don't hesitate to reach out! 🚀
