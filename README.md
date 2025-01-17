@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there! 👋 I'm Bhavana (AKULA RAVISANKAR GARI BHAVANA)
 
 I am a final-year **Bachelor of Technology** student in **Electrical and Electronics Engineering** at **NIT Andhra Pradesh**. I;m open to work for the roles related to **Machine Learning**, **DevOps**, **MLOps**, and **Embedded Systems**. I love solving real-world problems through innovative projects and building systems that impact users positively.
@@ -32,7 +31,7 @@ I am a final-year **Bachelor of Technology** student in **Electrical and Electro
 
 ## 📬 Contact Me
 - Email: [arbhavana532@gmail.com](mailto:arbhavana532@dgmail.com)
-- LinkedIn: [linkedin.com/in/arbhavana](https://www.linkedin.com/in/arbhavana)
+- LinkedIn: [linkedin.com/in/arbhavana]([https://www.linkedin.com/in/arbhavana](https://www.linkedin.com/in/bhavana-ar-356149266/))
 - GitHub: [github.com/arbhavana](https://github.com/arbhavana)
 
 Feel free to explore my repositories, and if you have any questions or collaborations in mind, don't hesitate to reach out! 🚀
