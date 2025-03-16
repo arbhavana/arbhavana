@@ -1,13 +1,13 @@
 # Hi there! 👋 I'm Bhavana (AKULA RAVISANKAR GARI BHAVANA)
 
-I am a final-year **Bachelor of Technology** student in **Electrical and Electronics Engineering** at **NIT Andhra Pradesh**. I;m open to work for the roles related to **Machine Learning**, **DevOps**, **MLOps**, and **Embedded Systems**. I love solving real-world problems through innovative projects and building systems that impact users positively.
+I am a final-year **Bachelor of Technology** student in **Electrical and Electronics Engineering** at **NIT Andhra Pradesh**. I am open to work for the roles related to **Machine Learning**, **DevOps**, **MLOps**, and **Full Stack Development**. I love solving real-world problems through innovative projects and building systems that impact users positively.
 
 ## 📚 Skills
-- **Programming Languages**: Python, C++, SQL, HTML, CSS
+- **Programming Languages**: Python, C++, SQL, JavaScript, HTML/CSS
 - **DevOps & Cloud**: AWS, Terraform, Jenkins, Kubernetes, Docker, Prometheus
 - **Machine Learning**: Deep Learning, Natural Language Processing (NLP), MLOps
 - **Embedded Systems**: Microcontrollers, IoT, Circuit Design, Embedded C
-- **Web Development**: Flask, HTML, CSS, JavaScript
+- **Web Development**: React, HTML, CSS, JavaScript, MongoDB, Express, NodeJS 
 - **Tools & Technologies**: Git, GitHub, SonarQube, ArgoCD, SQL
 
 ## 🔧 Current Projects
